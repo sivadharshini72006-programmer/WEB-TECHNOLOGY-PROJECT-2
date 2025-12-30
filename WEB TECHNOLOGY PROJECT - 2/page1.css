@@ -1,0 +1,71 @@
+<!DOCTYPE html> 
+<html>
+<head> 
+<title>Application Form</title> 
+<link rel=”stylesheet” href=”styles1.css”  /> 
+</head> 
+<body> 
+<h2> APPLICATION FORM</h2> 
+<form action=”page2.html”> 
+<table> 
+<tr> 
+<td><label> Name:</label></td> 
+<td><input type=”text” name=”name” required></td> 
+</tr> 
+<tr> 
+<td><label>Date of Birth:</label></td> 
+<td><input type=”date” name=”dob” required></td> 
+</tr> 
+<tr> 
+<td><label>Email:</label></td> 
+<td><input type=”email” name=”email” required></td> 
+</tr> 
+<tr> 
+<td colspan=”2” style=”text-align:center;”> 
+</td> 
+</tr> 
+<tr> 
+<td><label>Mother tongue:</label></td> 
+<td><input type=”text” name=”qualification” required></td> 
+</tr> 
+<tr> 
+<td><label>Year of passing HSC:</label></td> 
+<td><input type=”text” name=”university” required></td> 
+</tr> 
+<tr> 
+<td><label>Year of Passing SSLC:</label></td> 
+<td><input type=”number” name=”year” required></td> 
+</tr> 
+<tr> 
+<td colspan=”2” style=”text-align:center;”> 
+</td> 
+</tr> 
+<tr> 
+<td><label>Address:</label></td> 
+<td><textarea name=”skills” rows=”4” required></textarea></td> 
+</tr> 
+<td><label>Father’s Name:</label></td> 
+<td><input type=”text” name=”father” required></td> 
+</tr> 
+<tr> 
+<td><label>Mother’s Name:</label></td> 
+<td><input type=”text” name=”mother” required></td> 
+</tr> 
+<tr> 
+<tr> 
+<td><label>Phone Number:</label></td> 
+<td><input type=”tel” name=”phone” required></td> 
+</tr> 
+<tr> 
+<td><label>Hosteller/Dayscholar:</label></td> 
+<td><textarea name=”address” rows=”3” required></textarea></td> 
+</tr> 
+<tr> 
+<td colspan=”2” style=”text-align:center;”> 
+<button type=”submit”>Submit</button> 
+</td> 
+</tr> 
+</table> 
+</form> 
+</body> 
+</html>

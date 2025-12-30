@@ -1,0 +1,20 @@
+<!DOCTYPE html>  
+<html>
+<head>  
+<title>Style sheet</title> a 
+<link rel=”stylesheet” href=”styles.css” />  
+</head>  
+<body>
+<div class =”banner”>  
+<div class=”content”>  
+<h3>Karpagam college of engineering</h3>  
+</div>  
+<ul class =”nav-links”>  
+<li><a href =”page2.html”>Home</a></li>
+<li><a href =”#”>About</a></li  
+<li><a href=”page1.html”>Application form</a></li>
+<li><a href=”#”>Portfolio </a></li>  
+<li><a href =”#”>Contact</a></li>
+</ul>
+</body>
+</html

@@ -1,0 +1,37 @@
+body{ 
+margin:none; 
+} 
+.banner{ 
+Background-image: 
+url(https://assets.onecompiler.app/43awqx4g8/43dvmcj3q/1000032008.jpg); 
+Background-size:90% 100%; 
+Background-repeat:no-repeat; 
+Height:200px; 
+Background-position:center; 
+} 
+.content{ 
+Position:absolute; 
+Text-align:center; 
+Top:8%; 
+Bottom:20%; 
+Left:25%; 
+Color:orange ; 
+} 
+.nav-links{ 
+Display:flex; 
+List-style:none; 
+Align-items:center; 
+Font-size:8px; 
+Justify-content:space-between; 
+Text-align:left; 
+Border-radius:0px; 
+Padding:4px 4px 4px 4px; 
+Margin:15px; 
+Box-shadow: 0px 0px; 
+Background-color:yellow ; 
+} 
+.nav-links a{ 
+Text-decoration:none; 
+} 
+.nav-links li:hover{ 
+Color:red;
